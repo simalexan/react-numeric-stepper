@@ -1,6 +1,7 @@
 {
   "name": "React Numeric Stepper",
   "version": "0.0.1",
+  "main": "src/react-numeric-stepper.js",
   "authors": [
     "simalexan <alexander.simovic@gmail.com>"
   ],
